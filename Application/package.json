@@ -1,0 +1,15 @@
+{
+  "name": "deej",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arduino.js",
+  "scripts": {
+    "start": "node arduino.js"
+  },
+  "author": "tanishqmanuja",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "serialport": "^9.0.7"
+  }
+}
